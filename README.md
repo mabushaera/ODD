@@ -1,10 +1,29 @@
-# **📄 Paper: arXiv + Springer DOI**
+## 📄 Paper
 
-# **🏆 Accepted at PAKDD 2026**
+**Online Domain-aware LLM Decoding for Continual Domain Evolution**
 
-# **🔬 Keywords: inference-time adaptation, online LLM adaptation, concept drift, decoding-time adaptation, continual domain evolution**
+- **Springer DOI:** https://doi.org/10.1007/978-981-92-1468-6_40
+- **arXiv:** https://arxiv.org/abs/2602.08088
 
-# **📌 Citation BibTeX**
+## 🏆 Venue
+
+Accepted at **PAKDD 2026**, a top-tier A-ranked international conference.
+
+## 🔬 Keywords
+
+Inference-time adaptation, online LLM adaptation, concept drift, decoding-time adaptation, continual domain evolution.
+
+## 📌 Citation
+
+@inproceedings{abu-shaira2026odd,
+  title={Online Domain-aware LLM Decoding for Continual Domain Evolution},
+  author={Abu-Shaira, Mohammad and Shi},
+  booktitle={Advances in Knowledge Discovery and Data Mining},
+  pages={565--577},
+  year={2026},
+  publisher={Springer},
+  doi={10.1007/978-981-92-1468-6_40}
+}
 
 # **ODD – Online Domain-Aware Decoding**
 
