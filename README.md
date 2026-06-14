@@ -1,7 +1,10 @@
-📄 Paper: arXiv + Springer DOI
-🏆 Accepted at PAKDD 2026
-🔬 Keywords: inference-time adaptation, online LLM adaptation, concept drift, decoding-time adaptation, continual domain evolution
-📌 Citation BibTeX
+# **📄 Paper: arXiv + Springer DOI**
+
+# **🏆 Accepted at PAKDD 2026**
+
+# **🔬 Keywords: inference-time adaptation, online LLM adaptation, concept drift, decoding-time adaptation, continual domain evolution**
+
+# **📌 Citation BibTeX**
 
 # **ODD – Online Domain-Aware Decoding**
 
