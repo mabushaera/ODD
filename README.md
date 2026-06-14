@@ -1,3 +1,8 @@
+📄 Paper: arXiv + Springer DOI
+🏆 Accepted at PAKDD 2026
+🔬 Keywords: inference-time adaptation, online LLM adaptation, concept drift, decoding-time adaptation, continual domain evolution
+📌 Citation BibTeX
+
 # **ODD – Online Domain-Aware Decoding**
 
 **ODD (Online Domain-Aware Decoding)** is an inference-time framework for real-time domain adaptation in Large Language Models (LLMs), requiring no retraining or external retrieval. ODD performs probability-level fusion between a base LLM and a prefix-tree prior, using adaptive confidence modulation driven by disagreement and continuity signals.
